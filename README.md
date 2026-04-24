@@ -27,6 +27,13 @@ Ser un referente en el sector de la reparación electrónica en la zona sur de M
 - Compromiso con el cliente  
 
 ---
+## Información de contacto
+Dirección C. Leoncio Rojas, 11, 28901 Getafe, Madrid
+Teléfono +34 916 95 07 81
+Email ruizrjan@gmail.com
+Horario
+- Lunes a Viernes: 9:00 - 19:00
+- Sábados: 10:00 - 14:00
 
 ## 🧑‍🔧 Bio corta (para presentación)
 
