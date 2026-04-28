@@ -1,8 +1,8 @@
 # Servicio Técnico de Televisores en Getafe
 
-<a href="https://getafeelectronic.github.io/miserviciotecnico/" title="Reparación televiosre Getafe">🌐 Ver Sitio Web</a>  
-<a href="https://miserviciotecnico.vercel.app/" title="Gestión servicio técnico getafe">🔧 Backend API</a> 
-<a href="tel:+34916950781">📞 Llamar</a>
+<a href="https://getafeelectronic.github.io/miserviciotecnico/" title="Reparación televisores en Getafe">🌐 Ver Sitio Web</a>  
+<a href="https://miserviciotecnico.vercel.app/" title="Gestión servicio técnico getafe">🔧 Backend API</a>  
+📞 Llamar: +34916950781
 
 
 ## 🏢 Sobre la empresa
