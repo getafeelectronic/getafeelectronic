@@ -2,7 +2,7 @@
 
 <a href="https://getafeelectronic.github.io/miserviciotecnico/" title="Reparación televiosre Getafe">🌐 Ver Sitio Web</a>  
 <a href="https://miserviciotecnico.vercel.app/" title="Gestión servicio técnico getafe">🔧 Backend API</a> 
-📞 916950781
+<a href="tel:+34916950781">📞 Llamar</a>
 
 
 ## 🏢 Sobre la empresa
