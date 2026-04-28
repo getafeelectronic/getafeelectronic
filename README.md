@@ -2,7 +2,7 @@
 
 [🌐 Ver Sitio Web](https://getafeelectronic.github.io/miserviciotecnico/)
 [🔧 Backend API](https://miserviciotecnico.vercel.app/)
-[📞 Llamar](+34916950781)
+[📞 Llamar](tel:+34916950781)
 
 ## 🏢 Sobre la empresa
 Empresa de servicio técnico ubicada en Getafe (Madrid), especializada en la reparación de televisores de todas las marcas, modelos y tecnologías. Con más de 20 años de experiencia en el sector, ofrece soluciones rápidas, eficaces y accesibles para particulares y empresas.
