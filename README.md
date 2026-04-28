@@ -37,8 +37,8 @@ Dirección C. Leoncio Rojas, 11, 28901 Getafe, Madrid
 Teléfono +34 916 95 07 81
 Email ruizrjan@gmail.com
 Horario
-- Lunes a Viernes: 9:00 - 19:00
-- Sábados: 10:00 - 14:00
+- Lunes a Viernes: 9:30–13:30, 16:30–19:30
+- Sábados: Cerrado
 
 ## 🧑‍🔧 Bio corta (para presentación)
 
