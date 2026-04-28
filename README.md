@@ -2,7 +2,7 @@
 
 [🌐 Ver Sitio Web](https://getafeelectronic.github.io/miserviciotecnico/)  
 [🔧 Backend API](https://miserviciotecnico.vercel.app/)  
-<a href="tel:+34916950781">📞 Llamar</a>
+📞 916950781
 
 
 ## 🏢 Sobre la empresa
